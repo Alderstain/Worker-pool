@@ -1,2 +1,2 @@
 # Worker-pool
-simple Worker pool with dynamic addition and removal of workers
+Simple worker pool with dynamic addition and removal of workers
